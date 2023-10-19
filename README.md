@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ar124official2019
 - 👀 I’m interested in MEAN Stack applications.
-- 🌱 I’m currently learning Software Engineering at university.
 - 💞️ I’m looking to collaborate on Open Source and other projects.
 - 📫 Reach me at
   - Email pro.se.ahmad.raza.1@gmail.com
