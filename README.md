@@ -10,13 +10,11 @@
   - 📦 [Hire at LinkedIn](https://linkedin.com/in/ar124officialwd)
 
 ---
----
 
 | Top Stats | Languages |
 | ---------- | -------------- |
 | [![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar124official2019&show_icons=true&theme=transparent)](https://github.com/ar124official2019/github-readme-stats&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar124official2019&show_icons=true&theme=transparent&layout=compact)](https://github.com/ar124official2019/github-readme-stats&show_icons=true&theme=transparent&layout=compact)
 
----
 ---
 
 | ⚡ Top Repo | ⚡ Top Repo | ⚡ Top Repo
