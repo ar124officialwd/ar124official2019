@@ -3,9 +3,7 @@
 - 📫 Reach me
   - 🌐 [Website](https://ar124officialwd.vercel.app) 
   - ✉ [pro.se.ahmad.raza.1@gmail.com](mailto:pro.se.ahmad.raza.1@gmail.com)
-  - ✉ [ar124official2019@gmail.com](mailto:ar124official2019@gmail.com)
   - 📱 [+923011353415](tel:+923011353415)
-  - 💬 [t.me/@ar124official2019](t.me/ar124official2019)
   - 📦 [Hire at Upwork](https://www.upwork.com/freelancers/~013dd6d70690822d44)
   - 📦 [Hire at Fiverr](https://fiverr.com/ar124officialwd)
   - 📦 [Hire at LinkedIn](https://linkedin.com/in/ar124officialwd)
